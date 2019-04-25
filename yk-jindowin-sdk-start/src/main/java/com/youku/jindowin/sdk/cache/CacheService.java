@@ -11,7 +11,7 @@ import java.util.concurrent.Callable;
  **/
 public interface CacheService {
 
-    /**
+    /**1
      * 获取单个key值
      * @param key
      * @param <T>
